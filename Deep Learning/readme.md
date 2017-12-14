@@ -23,5 +23,11 @@
 
 &nbsp;&nbsp; ▣ DeepLearningBook
 
+### ▶ 라이브러리 정리 ###
+
+&nbsp;&nbsp; ▶ Keras</br>
+&nbsp;&nbsp; ▶ Tensorflow </br>
+&nbsp;&nbsp; ▶ Python </br>
+
 ### ☆ 기타 정리 사항 ###
 &nbsp;&nbsp; ☆  Setting
