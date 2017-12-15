@@ -1,33 +1,29 @@
 ## Deep Learning 관련 내용 정리 ##
 
-### No) Deep Learning 카테고리 ###
-&nbsp;&nbsp;0) NN(Neural Network)
+### Concept ###
+&nbsp;&nbsp;0) NN(Neural Network)<br>
+&nbsp;&nbsp;1) CNN(Convolutional Neural Network)<br>
+&nbsp;&nbsp;2) RNN(Recurrent Neural Network)<br>
+&nbsp;&nbsp;3) GAN(Generative Adversarial Nets)<br>
+&nbsp;&nbsp;4) RL(Reinforcement Learning)<br>
+&nbsp;&nbsp;5) Optimization<br>
+### Lecture ###
 
-&nbsp;&nbsp;1) CNN(Convolutional Neural Network)
+&nbsp;&nbsp; CS231n<br>
+&nbsp;&nbsp; Coursera - Andrew Ng<br>
+&nbsp;&nbsp; Udacity - DLND<br>
+&nbsp;&nbsp; DeepLearningBook<br>
 
-&nbsp;&nbsp;2) RNN(Recurrent Neural Network)
+### Library ###
 
-&nbsp;&nbsp;3) GAN(Generative Adversarial Nets)
+&nbsp;&nbsp; Keras</br>
+&nbsp;&nbsp; Tensorflow </br>
+&nbsp;&nbsp; Python </br>
+&nbsp;&nbsp; ☆ Setting
 
-&nbsp;&nbsp;4) RL(Reinforcement Learning)
+### Trial & Error ###
+&nbsp;&nbsp; CNN <br>
+&nbsp;&nbsp; RNN <br>
+&nbsp;&nbsp; GAN <br>
+&nbsp;&nbsp; RL <br>
 
-&nbsp;&nbsp;5) Optimization
-
-### ▣ 강의 ###
-
-&nbsp;&nbsp; ▣ CS231n
-
-&nbsp;&nbsp; ▣ Coursera - Andrew Ng
-
-&nbsp;&nbsp; ▣ Udacity - DLND
-
-&nbsp;&nbsp; ▣ DeepLearningBook
-
-### ▶ 라이브러리 정리 ###
-
-&nbsp;&nbsp; ▶ Keras</br>
-&nbsp;&nbsp; ▶ Tensorflow </br>
-&nbsp;&nbsp; ▶ Python </br>
-
-### ☆ 기타 정리 사항 ###
-&nbsp;&nbsp; ☆  Setting
