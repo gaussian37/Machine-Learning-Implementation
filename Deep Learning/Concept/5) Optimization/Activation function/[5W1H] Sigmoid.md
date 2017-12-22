@@ -1,6 +1,6 @@
 # ① WHEN & WHEN #
 
-Activation function 으로 각 layer 에서의 행렬곱, 합성곱등의 연산을 한 뒤 사용합니다.
+<span style="background-color: #FFFF00">Activation function</span>으로 각 layer 에서의 행렬곱, 합성곱등의 연산을 한 뒤 사용합니다.
 
 # ② WHAT #
 
