@@ -10,8 +10,7 @@ Activation function 으로 각 layer 에서의 행렬곱, 합성곱등의 연산
 
 Sigmoid 함수는 S자와 유사한 완만한 시그모이드 커브 형태를 보이는 함수입니다.<br> 
 Sigmoid는 대표적인 Logistic 함수입니다. Sigmoid 함수는 모든 실수 입력 값을 <span style="background-color: #FFFF00"> 0보다 크고 1보다 작은 미분 가능한 수로 변환</span>하는 특징을 갖습니다.<br>
-모든 입력에 대하여 sigmoid는 S와 같은 형태로 미분 가능한 0 ~ 1 사이의 값을 반환하기에 Logistic Classification과 같은 분류 문제의 가설과 Cost Function에 많이 사용됩니다. sigmoid의 반환 값은 <span style="background-color: #FFFF00">
-확률형태(0 ~ 1사이 값)이기 때문에 결과를 확률로 해석</span>할 때 유용합니다. <br>
+모든 입력에 대하여 sigmoid는 S와 같은 형태로 미분 가능한 0 ~ 1 사이의 값을 반환하기에 Logistic Classification과 같은 분류 문제의 가설과 Cost Function에 많이 사용됩니다. sigmoid의 반환 값은 <span style="background-color: #FFFF00">확률형태(0 ~ 1사이 값)이기 때문에 결과를 확률로 해석</span>할 때 유용합니다. <br>
 딥러닝에서는 노드에 임계값을 넘을 때만 출력하는 활성 함수로도 이용됩니다.
 
 - Sigmoid 함수의 정의<br>
@@ -28,8 +27,7 @@ Sigmoid는 대표적인 Logistic 함수입니다. Sigmoid 함수는 모든 실�
 
 Activation function 중의 하나로 비 선형성(Non-linearity)를 주기 위해 사용합니다. 하지만 sigmoid function을 Activation function으로 사용하는 것을 추천하지 않습니다. 사용 하지 않는 이유는 아래 3가지 이유를 확인 하시기 바랍니다.<br> 
 그럼에도 불구하고 Sigmoid 함수는 <span style="background-color: #FFFF00">
-미분 결과가 간결하고 사용하기 쉬우므로 초기에 많이 사용</span>되었습니다. 머신 러닝에서 Sigmoid함수는 가설과 학습에서 사용되었습니다. 학습에 사용될 때는 Sigmoid를 미분한 결과가 사용되고 <span style="background-color: #FFFF00">
-sigmoid는 미분 결과를 프로그래밍하기 쉽기에 인기가 더욱 높았습니다.</span>
+미분 결과가 간결하고 사용하기 쉬우므로 초기에 많이 사용</span>되었습니다. 머신 러닝에서 Sigmoid함수는 가설과 학습에서 사용되었습니다. 학습에 사용될 때는 Sigmoid를 미분한 결과가 사용되고 <span style="background-color: #FFFF00">sigmoid는 미분 결과를 프로그래밍하기 쉽기에 인기가 더욱 높았습니다.</span>
 
 <span style="color:red">**※ Sigmoid function의 문제점**</span>
 
