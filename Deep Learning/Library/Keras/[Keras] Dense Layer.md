@@ -24,13 +24,13 @@ Dense 레이어는 <span style="background-color: #FFFF00">
   - 'sigmoid' : 시그모이드 함수, <span style="background-color: #FFFF00">이진 분류 문제에서 출력층</span>에 주로 쓰입니다.
   - 'softmax' : 소프트맥스 함수, <span style="background-color: #FFFF00">다중 클래스분류 문제에서 출력층</span>에 주로 쓰입니다.
 
-Dense layer는 입력 뉴런 수에 상관 없이 <font color='red'>출력 뉴런 수를 자유롭게 설정</font>할 수 있기 때문에 출력층으로 많이 사용합니다.
+Dense layer는 입력 뉴런 수에 상관 없이 **<font color='red'>출력 뉴런 수를 자유롭게 설정</font>**할 수 있기 때문에 출력층으로 많이 사용합니다.
 
 예를 들어,<br> 1) 이진 분류 문제에서는 0과 1을 나타내는 출력 뉴런 하나만 있으면 되기 때문에 아래 코드처럼 출력 뉴런이 1개이고, 입력 뉴런과 가중치를 계산한 값을 0에서 1 사이로 표현할 수 있는 활성화 함수인 'sigmoid'를 사용합니다.
 
 	Dense(1, input_dim = 4, activation = 'sigmoid')
 
-2) <span style="background-color: #FFFF00">다중 클래스분류 문제</span>에서는 클래스 수만큼 출력 뉴런이 필요합니다. 만약 세 가지 종류로 분류한다면, 아래 코드처럼 출력 뉴런이 3개이고 입력 뉴런과 가중치를 계산한 값을 각 클래스의 확률 개념으로 표현할 수 있는 활성화 함수인 <span style="background-color: #FFFF00">'softmax'</span>를 사용합니다.
+2) <span style="background-color: #FFFF00">**다중 클래스분류 문제**</span>에서는 클래스 수만큼 출력 뉴런이 필요합니다. 만약 세 가지 종류로 분류한다면, 아래 코드처럼 출력 뉴런이 3개이고 입력 뉴런과 가중치를 계산한 값을 각 클래스의 확률 개념으로 표현할 수 있는 활성화 함수인 <span style="background-color: #FFFF00">'**softmax**'</span>를 사용합니다.
 
 	Dense(3, input_dim = 3, activation = 'softmax')
 
