@@ -1,4 +1,4 @@
-##[1] 180103_ custom_ data_ cnn
+## [1] 180103_ custom_ data_ cnn
 
 - 사용 데이터 : 개/고양이 약 2,000장
 - 사용 모델 : ResNet-14
