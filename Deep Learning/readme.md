@@ -1,8 +1,8 @@
-## Deep Learning 관련 내용 정리 ##
+# Deep Learning 관련 내용 정리 #
 
-### Concept ###
-&nbsp;&nbsp;0) NN(Neural Network)<br>
-&nbsp;&nbsp;1) CNN(Convolutional Neural Network)<br>
+## Concept ##
+### 0) NN(Neural Network)<br>
+### 1) CNN(Convolutional Neural Network)<br>
 &nbsp;&nbsp;2) RNN(Recurrent Neural Network)<br>
 &nbsp;&nbsp;3) GAN(Generative Adversarial Nets)<br>
 &nbsp;&nbsp;4) RL(Reinforcement Learning)<br>
