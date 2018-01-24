@@ -1,29 +1,27 @@
 # Deep Learning 관련 내용 정리 #
 
-## Concept ##
+## ▣ Concept ##
 ### 0) NN(Neural Network)<br>
 ### 1) CNN(Convolutional Neural Network)<br>
-&nbsp;&nbsp;2) RNN(Recurrent Neural Network)<br>
-&nbsp;&nbsp;3) GAN(Generative Adversarial Nets)<br>
-&nbsp;&nbsp;4) RL(Reinforcement Learning)<br>
-&nbsp;&nbsp;5) Optimization<br>
-### Lecture ###
+### 2) RNN(Recurrent Neural Network)<br>
+### 3) GAN(Generative Adversarial Nets)<br>
+### 4) RL(Reinforcement Learning)<br>
+### 5) Optimization<br>
 
-&nbsp;&nbsp; CS231n<br>
-&nbsp;&nbsp; Coursera - Andrew Ng<br>
-&nbsp;&nbsp; Udacity - DLND<br>
-&nbsp;&nbsp; DeepLearningBook<br>
+## ▣ Lecture ##
+### - CS231n<br>
+### - Coursera - Andrew Ng<br>
+### - Udacity - DLND<br>
+### - DeepLearningBook<br>
 
-### Library ###
+## ▣ Library ##
+### - Keras</br>
+### - Tensorflow </br>
+### - Python </br>
+### ☆ Setting
 
-&nbsp;&nbsp; Keras</br>
-&nbsp;&nbsp; Tensorflow </br>
-&nbsp;&nbsp; Python </br>
-&nbsp;&nbsp; ☆ Setting
-
-### Trial & Error ###
-&nbsp;&nbsp; CNN <br>
-&nbsp;&nbsp; RNN <br>
-&nbsp;&nbsp; GAN <br>
-&nbsp;&nbsp; RL <br>
-
+## Trial & Error ##
+### - CNN <br>
+### - RNN <br>
+### - GAN <br>
+### - RL <br>
