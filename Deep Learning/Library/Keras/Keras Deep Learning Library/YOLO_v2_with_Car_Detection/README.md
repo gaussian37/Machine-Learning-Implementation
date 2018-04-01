@@ -1,6 +1,5 @@
 # YOLO_v2 with Car Detection
 
-- 작성자 : Gauss. Kim.
 - 버전  : Rev.0
 
 [전체 코드 및 데이터 링크](https://drive.google.com/open?id=1X_x2rD-dE-rJ1Rd7z_gqlWcLOyjEdjbo)
