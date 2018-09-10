@@ -12,9 +12,9 @@
 
 - Many Kaggle user use this method
 
-![1](./nb_images/ensemble.png)
+![1](./nb_images/ensemble.PNG)
 
-![2](./nb_images/boundary.png)
+![2](./nb_images/boundary.PNG)
 
 ### Let's learn about below
 
