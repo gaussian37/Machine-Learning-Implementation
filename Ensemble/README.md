@@ -12,12 +12,8 @@
 
 - Many Kaggle user use this method
 
-<img src="./nb_images/ensemble.PNG" alt="Drawing" style="width: 200px;"/>
-
-
-![1](./nb_images/ensemble.PNG)
-
-![2](./nb_images/boundary.PNG)
+<img src="./nb_images/ensemble.PNG" alt="Drawing" style="width: 100px;"/>
+<img src="./nb_images/boundary.PNG" alt="Drawing" style="width: 100px;"/>
 
 ### Let's learn about below
 
