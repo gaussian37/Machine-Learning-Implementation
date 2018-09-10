@@ -12,6 +12,9 @@
 
 - Many Kaggle user use this method
 
+<img src="./nb_images/ensemble.PNG" alt="Drawing" style="width: 200px;"/>
+
+
 ![1](./nb_images/ensemble.PNG)
 
 ![2](./nb_images/boundary.PNG)
