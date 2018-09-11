@@ -13,6 +13,10 @@
 - Many Kaggle user use this method
 
 <img src="./nb_images/ensemble.PNG" alt="Drawing" style="width: 100px;"/>
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 <img src="./nb_images/boundary.PNG" alt="Drawing" style="width: 100px;"/>
 
 ### Let's learn about below
@@ -28,5 +32,8 @@
 - XGBoost
 
 - Light GBM
+<<<<<<< HEAD
 
 <img src="./nb_images/ensemble-method.PNG" alt="Drawing" style="width: 100px;"/>
+=======
+>>>>>>> origin/master
