@@ -28,3 +28,5 @@
 - XGBoost
 
 - Light GBM
+
+<img src="./nb_images/ensemble-method.PNG" alt="Drawing" style="width: 100px;"/>
